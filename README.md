@@ -95,8 +95,8 @@ Além disso, o sistema:
 
 ## Autor
 
-Bruno de Souza Rodrigues
-Cauã Gasparoto Nascimento
-João Igor Alves Oroz Reis
-Diego Constanzo Galvão
-Ana Clara Fernandes Moliterno
+- Bruno de Souza Rodrigues
+- Cauã Gasparoto Nascimento
+- João Igor Alves Oroz Reis
+- Diego Constanzo Galvão
+- Ana Clara Fernandes Moliterno
